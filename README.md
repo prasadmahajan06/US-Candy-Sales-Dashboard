@@ -46,14 +46,18 @@ The US Candy Sales Dashboard visualizes key sales metrics across various dimensi
 - Power Query for data transformation
 
 🗂️**Data Source**
-- Primary Source: Internal sales database Download Dataset Here
+- Primary Source: Internal sales database <a href +"https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/US%2BCandy%2BDistributor.zip">Download Dataset Here</a>
 - Data Fields Used: Date, Ship Mode, Product Name, Division, Sales Amount, Units, Customer Type, State/Province, City, Region, Sales and Cost
 
 📊**Dashboard**
-- Dashboard cab be Seen Here -
+- Dashboard cab be Seen Here - <a href ="https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/Sheet%201.png">Sheet 1</a>
+                               <a href ="https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/Sheet%202.png">Sheet 2</a>
+                               <a href ="https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/Sheet%203.png">Sheet 3</a>
+                               <a href ="https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/Sheet%204.png">Sheet 4</a>
+                               <a href ="https://github.com/prasadmahajan06/US-Candy-Sales-Dashboard/blob/main/Sheet%205.png">Sheet 5</a>
 
 🙋‍♂️ Author
-- Created by Prasad Mahajan
+- Created by: Prasad Mahajan
 - GitHub: prasadmahajan06
 
 
